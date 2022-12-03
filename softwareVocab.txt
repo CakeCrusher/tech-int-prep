@@ -1,0 +1,16 @@
+declarative programming
+  a style of building the structures and elements without describing the control flow
+imperative programming
+  expresses how a program is to operate step by set
+expressive
+  easy to write and understand for the compiler and human reader
+starndard
+  common protocols
+  like TTL, HTTP
+defacto standard
+  tools everyone should be able to use at a certain level
+  like prometheous for metric like monitoring
+time-series database
+  a database with a time stamp key data structure
+adoption drivers
+  encouraging people to adopt
