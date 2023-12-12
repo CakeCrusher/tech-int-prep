@@ -14,3 +14,5 @@ time-series database
   a database with a time stamp key data structure
 adoption drivers
   encouraging people to adopt
+subroutine
+  a set of instructions to perform a commonly used operation
